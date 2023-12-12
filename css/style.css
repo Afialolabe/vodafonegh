@@ -1,4 +1,38 @@
-.button {
-  color: white;
+.main {
+  height: 300px;
   background-color: red;
+}
+.my {
+  height: 300px;
+  background-color: blue;
+}
+.you {
+  height: 300px;
+  background-color: greenyellow;
+}
+.cell1 {
+  height: 300px;
+  background-color: brown;
+}
+.cell2 {
+  height: 300px;
+  background-color: teal;
+}
+.cell3 {
+  height: 300px;
+  background-color: orange;
+}
+.my2 {
+  height: 150px;
+  background-color: aqua;
+}
+.one {
+  height: 150px;
+  background-color: chocolate;
+}
+.two {
+  background-color: crimson;
+}
+.three {
+  background-color: darkgoldenrod;
 }
