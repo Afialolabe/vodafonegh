@@ -38,11 +38,10 @@
 }
  */
 
-body {
-  /* font-family: "Times New Roman", Times, serif; */
+/* body {
   margin: 0;
   padding: 0;
-}
+} */
 .titlebar {
   width: 100%;
   height: 50px;
@@ -112,6 +111,7 @@ li a{
 h1{
   line-height: 2.0;
   margin-left: 50px;
+  font-size: 40px;
 }
 #btn{
   margin-left: 50px;
@@ -120,6 +120,17 @@ h1{
   border: none;
   padding: 15px;
   color: white;
+}
+#btn a{
+  text-decoration: none;
+  color: white;
+}
+#btn:hover{
+  background-color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+#btn a:hover{
+  color: red;
 }
 .cell1{
   height:500px ;
@@ -134,4 +145,17 @@ h1{
   height: 500px;
   width: 580px;
   padding-right: 60px;
+}
+.container-fluid{
+  height: 120px;
+  background-color: darkred;
+  background:linear-gradient(to right,darkred,red);
+}
+.cellone{
+padding-top: 30px;
+padding-left: 50px;
+align-content: center;
+}
+.cellone p{
+  text-align: center;
 }
