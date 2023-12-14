@@ -151,11 +151,11 @@ h1{
   background-color: darkred;
   background:linear-gradient(to right,darkred,red);
 }
-.cellone{
-padding-top: 30px;
-padding-left: 50px;
-align-content: center;
-}
-.cellone p{
-  text-align: center;
+.second_row{
+  padding-top: 30px;
+  display: flex;
+  /* align-items: center;
+  align-content: center; */
+  padding-left: 200px;
+  padding-right: 140px;
 }
