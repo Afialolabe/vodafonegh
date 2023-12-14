@@ -162,3 +162,12 @@ h1{
 .second_row p{
   color: white;
 }
+.thirdcontainer{
+  background: rgba(209, 185, 185, 0.418);
+  height: 480px;
+}
+h2{
+  padding-top: 50px;
+  padding-left: 150px;
+  padding-bottom: 20px;
+}
