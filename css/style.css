@@ -167,13 +167,23 @@ h2{
   padding-top: 50px;
   padding-left: 150px;
   padding-bottom: 20px;
+  font-size: 50px;
 }
 .secondsection{
- background-color: rgb(172, 168, 168);
+ background-color: rgb(226, 223, 223);
  height: 700px;
 }
 .first_section{
   height:500px;
   background-color: white;
   border-radius: 10px;
+  /* padding-left: 50px; */
+}
+.first_section img{
+  height:300px;
+  width:100%;
+  padding-top: 30px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 30px;
 }
