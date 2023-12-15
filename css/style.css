@@ -218,6 +218,10 @@ h2{
   padding-bottom: 30px;
   font-size: 20px;
 }
+.first_row img{
+  height: 50px;
+  width: 25%;
+}
 #login{
   width: 50%;
   background-color:red;
@@ -232,9 +236,3 @@ h2{
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   color: red; 
 }
-.row2 img{
-  width: 50%;
-  height: 90px;
-  padding-top: 10px;
-}
-
