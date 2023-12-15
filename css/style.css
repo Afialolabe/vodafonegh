@@ -104,10 +104,10 @@ li a{
   color: black;
 }
 
-.container1{
+/* .container1{
   height: 500px;
   background-color: aqua;
-}
+} */
 h1{
   line-height: 2.0;
   margin-left: 50px;
@@ -144,7 +144,7 @@ h1{
 .cell2 img{
   height: 500px;
   width: 580px;
-  padding-right: 60px;
+  padding-right: 20px;
 }
 .container-fluid{
   height: 120px;
@@ -154,8 +154,6 @@ h1{
 .second_row{
   padding-top: 30px;
   display: flex;
-  /* align-items: center;
-  align-content: center; */
   padding-left: 200px;
   padding-right: 140px;
 }
@@ -170,7 +168,12 @@ h2{
   padding-left: 150px;
   padding-bottom: 20px;
 }
-/* .main container{
-  background-color: black;
-  height: 50px;
-} */
+.secondsection{
+ background-color: rgb(172, 168, 168);
+ height: 700px;
+}
+.first_section{
+  height:500px;
+  background-color: white;
+  border-radius: 10px;
+}
