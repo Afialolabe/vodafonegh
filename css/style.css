@@ -195,10 +195,30 @@ h2{
   padding-top: 30px;
   padding-bottom: 30px;
 }
-#login{
+.login{
   width: 100%;
   background-color:red;
   height: 50px;
   border-radius: 10px;
   border: none;
 }
+.login a{
+  text-decoration: none;
+  color: white;
+}
+/* #login:hover{
+  background-color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  color: red;
+  cursor: pointer;
+} */
+/* .login{
+  background-color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  color: red;
+  cursor: pointer;
+} */
+/* #login a:hover{
+  color: red;
+  background-color: white;
+} */
