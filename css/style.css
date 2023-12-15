@@ -221,6 +221,8 @@ h2{
 .first_row img{
   height: 50px;
   width: 25%;
+  padding-top: 0;
+  padding-left: ;
 }
 #login{
   width: 50%;
