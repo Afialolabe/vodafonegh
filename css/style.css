@@ -205,3 +205,10 @@ h2{
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   color: red;  
 }
+.first_row{
+  height:500px;
+  background-color: white;
+  border-radius: 10px;
+  width: 100%;
+  padding-left: 20px;
+}
