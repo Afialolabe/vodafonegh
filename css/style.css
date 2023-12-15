@@ -120,18 +120,14 @@ h1{
   border: none;
   padding: 15px;
   color: white;
-}
-#btn a{
-  text-decoration: none;
-  color: white;
+  cursor: pointer;
 }
 #btn:hover{
   background-color: white;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-#btn a:hover{
   color: red;
 }
+
 .cell1{
   height:500px ;
   background-color: white;
@@ -177,7 +173,7 @@ h2{
   height:500px;
   background-color: white;
   border-radius: 10px;
-  /* padding-left: 50px; */
+  
 }
 .first_section img{
   height:300px;
@@ -201,24 +197,11 @@ h2{
   height: 50px;
   border-radius: 10px;
   border: none;
-}
-.login a{
-  text-decoration: none;
+  cursor: pointer;
   color: white;
 }
-/* #login:hover{
+.login:hover{
   background-color: white;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  color: red;
-  cursor: pointer;
-} */
-/* .login{
-  background-color: white;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  color: red;
-  cursor: pointer;
-} */
-/* #login a:hover{
-  color: red;
-  background-color: white;
-} */
+  color: red;  
+}
