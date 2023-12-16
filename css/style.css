@@ -278,5 +278,31 @@ h1 {
   margin-left: 150px;
   font-size: 50px;
   margin-top: 60px;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
+}
+#plans {
+  color: white;
+  background-color: teal;
+  border-radius: 10px;
+  border: none;
+  width: 100px;
+  height: 35px;
+  margin-left: 450px;
+  margin-top: 25px;
+  margin-bottom: 35px;
+}
+#broadband {
+  color: black;
+  background-color: white;
+  border-radius: 10px;
+  border: none;
+  width: 100px;
+  height: 35px;
+  cursor: pointer;
+  margin-top: 25px;
+  margin-bottom: 35px;
+}
+#broadband:hover {
+  background-color: teal;
+  color: white;
 }
