@@ -134,7 +134,11 @@ h1 {
   height: 500px;
   background-color: white;
 }
-
+.cell1 h1 {
+  padding-top: 130px;
+  line-height: 50px;
+  padding-bottom: 20px;
+}
 .cell2 {
   height: 500px;
   background-color: white;
