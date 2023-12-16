@@ -48,6 +48,8 @@ body {
   height: 50px;
   background-color: black;
   padding: 10px;
+  position: fixed;
+  top: 0;
 }
 .titlebar a {
   text-decoration: none;
@@ -65,11 +67,13 @@ body {
 .navbar {
   height: 65px;
   background-color: white;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a box shadow
-  display: flex; /*sends the logo to the right and lists to the left*/
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a box shadow*/
+  position: fixed;
+  top: 50px;
   justify-content: space-between;
   align-items: center;
   padding: 0 20px;
+  width: 100%;
 }
 
 .logo {
