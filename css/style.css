@@ -145,3 +145,9 @@ h1 {
   background-color: darkred;
   background: linear-gradient(to right, darkred, red);
 }
+.second_row {
+  padding-top: 30px;
+  margin-left: 50px;
+  color: white;
+  text-align: center;
+}
